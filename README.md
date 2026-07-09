@@ -10,7 +10,7 @@
 
 - 🎓 B.Tech Student @ **DAU (formerly DAIICT)**
 - 🧩 Passionate about **Data Structures & Algorithms**
-- 💻 Active on **LeetCode** and **Codeforces**
+- 💻 Active on **Codeforces** and **LeetCode** 
 - 🌱 Currently learning **Advanced Algorithms** and **Backend Development**
 - 🎯 Goal: Become a Software Engineer and Competitive Programmer
 
@@ -42,9 +42,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-259dff.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 📊 Competitive Programming
-
-- 🔥 Solving DSA problems daily
-- 💡 Focus on Graphs, DP, Trees, and Advanced Data Structures
-- 🏆 Active participant on Codeforces and LeetCode contests
